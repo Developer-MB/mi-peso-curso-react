@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.logo {
+  align-items: center;
+  margin-left: 20px;
+  width: 64px;
+  height: 64px;
+}
+
+.titulo {
+  font-size: 45px;
+  font-weight: bold;
+}
